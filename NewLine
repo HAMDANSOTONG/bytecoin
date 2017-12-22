@@ -1,0 +1,6 @@
+echo "# THE-SOTONG-MASTER" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/HAMDANSOTONG/THE-SOTONG-MASTER.git
+git push -u origin master
